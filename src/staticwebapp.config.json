@@ -1,0 +1,3 @@
+"networking": {
+  "allowedIpRanges": ["AzureFrontDoor.Backend"]
+}
